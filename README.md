@@ -1,2 +1,2 @@
-# gitLearn
+# git_learn
 Learning git
